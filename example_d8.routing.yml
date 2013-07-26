@@ -1,0 +1,6 @@
+example_page:
+  pattern: '/example/page'
+  defaults:
+    _content: '\Drupal\example_d8\Controller\ExampleD8Controller::page'
+  requirements:
+    _permission: 'access example'

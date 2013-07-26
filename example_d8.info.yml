@@ -1,0 +1,7 @@
+name: Example Module
+type: module
+description: This module provide basic example how to create module in D8
+core: 8.x
+version: 8.x-1.0
+package: Example
+hidden: false
