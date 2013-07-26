@@ -5,7 +5,7 @@
  * @file
  */
 
-namespace Drupal\example_d8\COntroller;
+namespace Drupal\example_d8\Controller;
 
 use Drupal\Core\Controller\ControllerInterface;
 use Symfony\Component\DependencyInjection\ContainerAware;
